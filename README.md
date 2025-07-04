@@ -1,6 +1,6 @@
 # Hey there! I'm Yevhen 👋
 
-An ordinary developer who loves music and learning new things.
+An ordinary developer who loves music and learning new things.<br/>
 I can talk endlessly about rock and nu metal, especially about Linkin Park
 
 ## 🌐 Socials:
