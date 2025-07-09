@@ -1,9 +1,14 @@
 # Hey there! I'm Yevhen 👋
 
-An ordinary developer who loves music and learning new things.<br/>
+An ordinary ukrainian student who loves music and learning new things.<br/>
 I can talk endlessly about rock and nu metal, especially about Linkin Park
 
+<details open>
+<summary>
+
 ## 🌐 Socials:
+</summary>
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/justandromedov) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yevhen.andromedov) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yevhenharasymchuk) 
@@ -12,7 +17,14 @@ I can talk endlessly about rock and nu metal, especially about Linkin Park
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/andromedovua) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AndromedovUA) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AndromedovUA) 
 
+</details>
+
+<details open>
+<summary>
+
 ## 💻 Tech Stack:
+</summary>
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
@@ -44,7 +56,14 @@ I can talk endlessly about rock and nu metal, especially about Linkin Park
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+</details>
+
+<details open>
+<summary>
+
 ## 📊 GitHub Stats:
+</summary>
+
 ![](https://github-readme-stats.vercel.app/api?username=Andromedov&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Andromedov&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andromedov&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -52,4 +71,4 @@ I can talk endlessly about rock and nu metal, especially about Linkin Park
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Andromedov&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+</details>
