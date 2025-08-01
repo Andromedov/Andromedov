@@ -1,6 +1,6 @@
 # Hey there! I'm Yevhen 👋
-
-An ordinary ukrainian student who loves music and learning new things.<br/>
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)<br/>
+An ordinary Ukrainian student who loves music and learning new things.<br/>
 I can talk endlessly about rock and nu metal, especially about Linkin Park
 
 <details open>
